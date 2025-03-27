@@ -9,7 +9,7 @@ connect 31.131.249.71:27017
 ```
 
 ### Features:
-- Game design that favors new base weapons with unique gaemeplay.
+- Unique philosophy behind game design that favors brand new weapons over stat swaps.
 - Battle-tested (for over 4 years) arsenal that is proven to provide joy to a lot of people.
 - Brand new, super-unituitive, easy to use inventory system.
 - Cutting edge technology that provides native feel of the weapons. Visual and sound effects are specifically crafted for new weapons; weapon models properly appear from both first and third person with; sounds and animations are immune to client latency etc.
