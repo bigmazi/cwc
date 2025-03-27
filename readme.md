@@ -8,4 +8,4 @@ No installation required. Just connect to the server to play:
 connect 31.131.249.71:27017
 ```
 
-Join us on Discord: https://dsc.gg/cwclassy/
+Join us on Discord: [https://dsc.gg/cwclassy/](https://dsc.gg/cwclassy/)
