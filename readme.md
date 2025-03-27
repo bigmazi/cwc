@@ -1,6 +1,6 @@
 # Custom Weapons: Classy
 
-A mod for Team Fortress 2 that adds a lot of neat custom weapons to the game.
+A mod for Team Fortress 2 that adds a lot of neat weapons to the game.
 
 No installation required. Just connect to the server to play:
 
