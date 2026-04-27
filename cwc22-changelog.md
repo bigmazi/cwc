@@ -138,6 +138,7 @@ Hopefully, it will have been worth the wait!
 ### Paint Sprayer
 - **Ported**.
 - Ignition now deals 40 damage (2s cooldown per victim; i.e. if you ignite someone, you deal 40 damage, then you will be able to deal these 40 damage again after 2 seconds pass).
+- Refined hit registration.
 
 ### Packed Jet
 - Stomp damage now matches that of Mantreads (except for Hookshot grapple into stomp combo which is still 30 + 60 = 90 damage).
@@ -157,7 +158,7 @@ Hopefully, it will have been worth the wait!
 
 ### Salutary Serum
 - The max amount of bottles is increased to 12 (was 6).
-- Slightly increased the linger duration for the bottles that are marked for destruction (happens once Medic places attempts to place 13th bottle).
+- Slightly increased the linger duration for the bottles that are marked for destruction (happens when Medic attempts to place 13th bottle).
 - Note that Overdose & Ubersaw treats Salutary Serum alt-fire charge level as ubercharge level for their bonuses.
 
 ### Life Stealer
