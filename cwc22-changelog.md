@@ -128,6 +128,7 @@ Hopefully, it will have been worth the wait!
 - Significantly simplified impact effects. They're just small & silent sparks now.
 - Adjusted damage. It no longer depends on distance.
 - Significantly improved accuracy.
+- Reduced range.
 - The teeth are now properly animated.
 
 ## Engineer
