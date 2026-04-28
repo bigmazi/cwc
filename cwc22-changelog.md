@@ -31,11 +31,10 @@ Hopefully, it will have been worth the wait!
 ### Ricochet
 - Vintage version a.k.a. ~~**Winn's Lever**~~ is retired. The weapons once again has the appearance of a pitching machine.
 - Massive change to the stats; now the weapon is sort of a merge between vintage and non-vintage versions (with a cherry on the top!).
-- Increased amount of ricochets (*experimental change*). The first ricochet (and only it) has bonus damage.
-- Projectile is unaffected by gravity until it ricochets second time.
+- Projectile is unaffected by gravity.
 - Without bonus: 20 base damage regardless of distance.
 - With bonus: 50 base damage, 0.75 falloff-over-distance multiplier, 1.75 rampup-over-distance multiplier.
-- Now first ricochet will also mini-crit (on top of bonus damage) when it's not from the floor.
+- Now ricochet will also mini-crit (on top of bonus damage) when it's not from the floor.
 - 0.5s attack interval.
 - Reload speed matches that of stock Scattergun.
 - Updated model.
@@ -116,8 +115,10 @@ Hopefully, it will have been worth the wait!
 
 ## Heavy Weapons Guy
 ### Mortar
+- Bombs no longer ricochets. It was fun! But the experiment is over.
 - New model. With spinning parts!
 - Now emits revving sounds.
+- Rewritten description.
 
 ### Sewing Machine
 - New model.
@@ -193,8 +194,11 @@ Hopefully, it will have been worth the wait!
 
 ## Spy
 ### Pocket Accelerator
+- Slightly increased debuff linger duration after unscoping (now equals 0.25s)
 - Now has a red skin. At last!
 - Removed muzzle flash.
+- Note that Dead Ringer may be used to fake gun breaking.
+- Note that Only Dead Ringer and ubercharge may save Spy from lethal damage of gun breaking. Resistances are ignored.
 
 ### Smoke Bomb
 *No changes*.
